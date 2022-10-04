@@ -43,3 +43,8 @@ CREATE TABLE employee_project(
 )
 
 UPDATE employee_project set Btime = (4.5) where EPID = 1
+
+Select * from department
+Select * from employee
+Select * from project
+Select * from employee_project
